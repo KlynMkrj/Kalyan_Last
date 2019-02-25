@@ -9,7 +9,7 @@ namespace FileData
 {
     public static class Program
     {
-        public static void Main(string[] args)
+        public static void Main(string[] args)  
         {
             string strArg1, strArg2;
 
