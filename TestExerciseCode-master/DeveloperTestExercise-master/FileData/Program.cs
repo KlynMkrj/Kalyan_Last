@@ -11,8 +11,8 @@ namespace FileData
     {
         public static void Main(string[] args)  
         {
-            string strArg1, strArg2;
-
+            string strArg1, strArg2;  
+            
             try
             {
                 if (args.Length >= 2)
